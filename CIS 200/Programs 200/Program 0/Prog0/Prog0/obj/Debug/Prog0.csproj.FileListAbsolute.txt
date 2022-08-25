@@ -1,0 +1,7 @@
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\Prog0\Prog0\obj\Debug\Prog0.csprojAssemblyReference.cache
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\Prog0\Prog0\obj\Debug\Prog0.csproj.CoreCompileInputs.cache
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\Prog0\Prog0\obj\Debug\Prog0.pdb

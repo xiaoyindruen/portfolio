@@ -1,0 +1,7 @@
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Labs\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Labs\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Labs\Lab 5\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Labs\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Labs\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Labs\Lab 5\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Labs\Lab 5\Lab5\Lab5\obj\Debug\Lab5.pdb

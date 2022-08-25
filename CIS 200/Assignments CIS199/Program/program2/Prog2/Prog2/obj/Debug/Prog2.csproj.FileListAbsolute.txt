@@ -1,0 +1,10 @@
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Program\program2\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Program\program2\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Program\program2\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Program\program2\Prog2\Prog2\obj\Debug\Prog2.csprojAssemblyReference.cache
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Program\program2\Prog2\Prog2\obj\Debug\Prog2.FoodDeliveryCostForm.resources
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Program\program2\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Program\program2\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.cache
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Program\program2\Prog2\Prog2\obj\Debug\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Program\program2\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\Zoe\Documents\Spring 2021\CIS 199\Assignments\Program\program2\Prog2\Prog2\obj\Debug\Prog2.pdb

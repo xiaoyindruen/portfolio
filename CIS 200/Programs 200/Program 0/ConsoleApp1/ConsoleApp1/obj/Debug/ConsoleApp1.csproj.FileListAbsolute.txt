@@ -1,0 +1,7 @@
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Zoe\Documents\Fall 2021\CIS 200\Programs\Program 0\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
