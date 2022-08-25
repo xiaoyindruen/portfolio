@@ -1,5 +1,4 @@
 ﻿//CIS 200-50
-//Student ID: 5461407
 //Due: 09/22/2021
 //Lab 1
 //Perform the queries on the array of Invoice objects and displays the results
