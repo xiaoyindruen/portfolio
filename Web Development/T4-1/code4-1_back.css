@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML5 and CSS3, 8th Edition
+   Tutorial 4
+   Coding Challenge 1
+
+   Author: Xiaoyin Druen
+   Date:   10/15/2020
+   
+   Filename: code4-1_back.css
+
+*/
+figure{
+  padding: 20px;
+  border: rgb(52,52,180) ridge 20px;
+  background:url(ws.png) bottom right/ 45% no-repeat border-box,
+             rgba(52,52,180,0.30);
+  box-shadow: black 5px 10px 15px;
+
+} 
+
+figcaption{
+   font-size: 1.8em;
+   text-align: center;
+   border-bottom:  rgb(52,52,180) solid 2px;
+}

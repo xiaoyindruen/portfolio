@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+
+
+body header article{
+	text-align:left;
+	font-weight:bold;
+	font-size:28pt;
+	color: red;
+}
+
+body head image{
+	width:100%;
+}
+
+body {
+	display: block;
+	background-color: rgb(211,211,211);
+	
+	
+}
+
+body form{
+	display:block;
+	bolder:blue;
+	align:center;
+}
+
+
+  footer {
+  display:block;
+  left: 0;
+  bottom:0;
+  width: 100%;
+  background-color: gray;
+  color: white;
+  text-align:center;
+  border: 5px solid white;
+}

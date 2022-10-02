@@ -1,0 +1,11 @@
+C:\Users\xcdru\OneDrive\Documents\My projects\TicTacToc\TicTacToc\bin\Debug\TicTacToc.exe.config
+C:\Users\xcdru\OneDrive\Documents\My projects\TicTacToc\TicTacToc\bin\Debug\TicTacToc.exe
+C:\Users\xcdru\OneDrive\Documents\My projects\TicTacToc\TicTacToc\bin\Debug\TicTacToc.pdb
+C:\Users\xcdru\OneDrive\Documents\My projects\TicTacToc\TicTacToc\obj\Debug\TicTacToc.csproj.AssemblyReference.cache
+C:\Users\xcdru\OneDrive\Documents\My projects\TicTacToc\TicTacToc\obj\Debug\TicTacToc.csproj.SuggestedBindingRedirects.cache
+C:\Users\xcdru\OneDrive\Documents\My projects\TicTacToc\TicTacToc\obj\Debug\TicTacToc.TicTacToc.resources
+C:\Users\xcdru\OneDrive\Documents\My projects\TicTacToc\TicTacToc\obj\Debug\TicTacToc.Properties.Resources.resources
+C:\Users\xcdru\OneDrive\Documents\My projects\TicTacToc\TicTacToc\obj\Debug\TicTacToc.csproj.GenerateResource.cache
+C:\Users\xcdru\OneDrive\Documents\My projects\TicTacToc\TicTacToc\obj\Debug\TicTacToc.csproj.CoreCompileInputs.cache
+C:\Users\xcdru\OneDrive\Documents\My projects\TicTacToc\TicTacToc\obj\Debug\TicTacToc.exe
+C:\Users\xcdru\OneDrive\Documents\My projects\TicTacToc\TicTacToc\obj\Debug\TicTacToc.pdb
